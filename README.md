@@ -42,8 +42,11 @@ The two modelling approaches I implemented are
 
 ## Articulate your findings with visualisations
 * * *
+#### Monthly Revenue
 ![MonthlyRevenue](https://github.com/sommers98/aavail-ai-workflow-capstone/blob/main/monthly_revenue.png)
 
+#### Feature Correlation
+![FeatureCorrelation](https://github.com/sommers98/aavail-ai-workflow-capstone/blob/main/feature_correlation.png)
 
 
 
