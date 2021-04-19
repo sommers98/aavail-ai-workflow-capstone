@@ -143,5 +143,6 @@ Run the container to test that it is working
 
 Go to http://0.0.0.0:4000/ and you will see a basic website that can be customtized for a project.
 
+Disclaimer: Not all of this code is my own, I have used python scripts from notebooks available throughout the AI Workflow courses in the production of the solution I present as this github repository
 
 
