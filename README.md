@@ -42,7 +42,7 @@ The two modelling approaches I implemented are
 
 ## Articulate your findings with visualisations
 * * *
-add images here>
+(https://github.com/sommers98/aavail-ai-workflow-capstone/blob/main/monthly_revenue.png)
 
 
 
